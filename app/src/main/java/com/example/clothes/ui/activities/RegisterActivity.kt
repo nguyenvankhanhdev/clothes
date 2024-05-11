@@ -55,6 +55,9 @@ class RegisterActivity : BaseActivity() {
             registerUser()
         }
 
+
+        
+
     }
     fun addControl(){
         tv_login = findViewById(R.id.tv_login)
